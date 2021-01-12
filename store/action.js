@@ -1,0 +1,1 @@
+export const LoadProducts = (payload) => ({ 'type': "LOAD_PRODUCTS", payload })
